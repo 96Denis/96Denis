@@ -10,10 +10,6 @@ Sunt pasionat de cloud computing și infrastructură modernă. În prezent, lucr
 - **Scripting:** PowerShell, Bash
 - **Operating Systems:** Linux, Windows Server
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=96Denis&show_icons=true&theme=dark&hide_border=true)
-
 ## 🛠️ Tehnologii & Tools
 
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
