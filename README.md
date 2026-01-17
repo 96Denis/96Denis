@@ -17,7 +17,6 @@ Sunt pasionat de cloud computing și infrastructură modernă. În prezent, lucr
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 📫 Cum mă poți contacta
 - 💼 LinkedIn: [Conectează-te cu mine](https://www.linkedin.com/in/denis-george-b%C3%AErladeanu-76359a1a4/)
